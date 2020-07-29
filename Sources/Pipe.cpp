@@ -3,7 +3,7 @@
 
 #include <iostream>
 
-namespace Sonar
+namespace Khai
 {
 	Pipe::Pipe(GameDataRef data) : _data(data)
 	{

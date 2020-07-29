@@ -8,7 +8,7 @@
 
 #include <iostream>
 
-namespace Sonar
+namespace Khai
 {
 	PauseState::PauseState(GameDataRef data) : _data(data)
 	{

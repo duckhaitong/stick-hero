@@ -4,7 +4,7 @@
 #include "Game.hpp"
 #include <vector>
 
-namespace Sonar
+namespace Khai
 {
 	class Pipe
 	{

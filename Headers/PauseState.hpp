@@ -4,7 +4,7 @@
 #include "State.hpp"
 #include "Game.hpp"
 
-namespace Sonar
+namespace Khai
 {
 	class PauseState : public State
 	{
